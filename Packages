@@ -1,0 +1,14 @@
+Package: com.utakata.themeofuiha
+Name: Theme of Uiha
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A theme with beautiful icons of Uiha Nijisanji.
+Author: Utakata <utakata2020@gmail.com>
+Maintainer: Utakata <utakata2020@gmail.com>
+Section: Themes
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: debs/com.utakata.themeofuiha.deb
+Size: 8344
+MD5sum: 72cf1c818ef15c9781be26bfbc91cf6d
+SHA1: a8e9fad951c2d1d746bc7b9d3135ff51e1e5df3f
+SHA256: 00b0ca5b10c48e51d740a0d5c47cae34c805f97c293d97ad06f1994b94e3203f
